@@ -1,7 +1,8 @@
 # depslib dependency file v1.0
-1559133503 source:c:\users\nikon\desktop\cg practice\task 4\main.cpp
+1560254105 source:c:\users\nikon\desktop\cg practice\shohid minar\main.cpp
 	<windows.h>
 	<GL/glut.h>
+	<math.h>
 
 1301111162 c:\program files (x86)\codeblocks\mingw\include\windows.h
 	<winresrc.h>
@@ -217,11 +218,6 @@
 1301111164 c:\program files (x86)\codeblocks\mingw\include\gl\glu.h
 	<stddef.h>
 	<GL/gl.h>
-
-1559626654 source:c:\users\nikon\desktop\cg-github\task all shape\main.cpp
-	<windows.h>
-	<GL/glut.h>
-	<math.h>
 
 1341006774 c:\program files (x86)\codeblocks\mingw\include\math.h
 	<_mingw.h>
